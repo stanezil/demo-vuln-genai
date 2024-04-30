@@ -1,5 +1,5 @@
 #FROM python:slim
-FROM cgr.dev/chainguard/python:latest-dev
+FROM python:latest
 
 USER root
 
